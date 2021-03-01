@@ -1,0 +1,25 @@
+{
+  "name": "react-final-form-mutators",
+  "version": "0.0.0",
+  "description": "Este ejemplo muestra como usar mutators para pasar los campos a mayusculas o minusculas al oprimir un botón.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/ww40y2m595",
+  "main": "index.js",
+  "dependencies": {
+    "styled-components": "latest",
+    "react-fontawesome": "latest",
+    "react-final-form": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "final-form": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
